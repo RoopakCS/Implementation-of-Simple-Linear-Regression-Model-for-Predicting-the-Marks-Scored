@@ -69,14 +69,31 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
-![alt text](<Images/Screenshot 2024-08-16 154352-1.png>)
-![alt text](<Images/Screenshot 2024-08-16 154419-1.png>)
-![alt text](<Images/Screenshot 2024-08-16 152702.png>)
-![alt text](<Images/Screenshot 2024-08-16 153116-1.png>)
-![alt text](<Images/Screenshot 2024-08-16 153301.png>)
-![alt text](<Images/download (7)-1.png>)
-![alt text](<Images/download (8).png>)
-![alt text](<Images/Screenshot 2024-08-16 153958-1.png>)
+## Output:
+### Head Values
+![alt text](<Screenshot 2024-08-16 154352-1.png>)
+
+### Tail Values
+![alt text](<Screenshot 2024-08-16 154419-1.png>)
+
+### X Values
+![alt text](<Screenshot 2024-08-16 152702.png>)
+
+### y Values
+![alt text](<Screenshot 2024-08-16 153116-1.png>)
+
+### Predicted Values
+![alt text](<Screenshot 2024-08-16 153301.png>)
+
+### Actual Values
+![alt text](<download (7)-1.png>)
+
+### Training Set
+![alt text](<download (8).png>)
+
+### Testing Set
+![alt text](<Screenshot 2024-08-16 153958-1.png>)
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
