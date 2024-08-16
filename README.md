@@ -91,10 +91,10 @@ print('RMSE = ',rmse)
 ![alt text](<Images/download (8).png>)
 
 ### Testing Set
-![alt text](<Images/Screenshot 2024-08-16 153958-1.png>)
+![alt text](<Images/download (7)-1.png>)
 
 ### MSE, MAE and RMSE
-![alt text](<Images/download (7)-1.png>)
+![alt text](<Images/Screenshot 2024-08-16 153958-1.png>)
 
 
 ## Result:
