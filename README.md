@@ -82,10 +82,10 @@ print('RMSE = ',rmse)
 ![alt text](<Images/Screenshot 2024-08-16 153116-1.png>)
 
 ### Predicted Values
-!![alt text](<Screenshot 2024-08-16 161908.png>)
+![alt text](<Screenshot 2024-08-16 161908.png>)
 
 ### Actual Values
-[alt text](<Images/Screenshot 2024-08-16 153301.png>)
+![alt text](<Images/Screenshot 2024-08-16 153301.png>)
 
 ### Training Set
 ![alt text](<Images/download (8).png>)
